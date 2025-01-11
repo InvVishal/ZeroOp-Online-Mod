@@ -1,10 +1,10 @@
 {
-    "serverstatus":"false",
+    "serverstatus":"true",
     "noticemode":"true",
     "dataclearmode":"false",
     "servermeassage":"Wait We Are Working On a new Update !",
     "opentime":" Just wait few more times 🙂",
     "libs":"https://github.com/InvVishal/ZeroOp-Online-Mod/raw/refs/heads/main/libZeroOp.zip",
-    "notice_title":"Welcome Vip Mod",
+    "notice_title":"Welcome ZeroAndroid Users",
     "notice_body":""
 }
