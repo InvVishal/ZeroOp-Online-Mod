@@ -1,8 +1,8 @@
 {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"Wait We Are Working On a new Update !",
+    "servermeassage":"Server On Timing :- 6:00PM",
     "opentime":" ",
     "libs":"https://github.com/InvVishal/ZeroOp-Online-Mod/raw/refs/heads/main/libZeroOp.zip",
     "notice_title":"Welcome ZeroAndroid Users",
