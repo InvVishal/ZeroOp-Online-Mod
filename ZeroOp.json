@@ -1,8 +1,8 @@
 {
-    "serverstatus":"true",
+    "serverstatus":"false",
     "noticemode":"true",
     "dataclearmode":"false",
-    "servermeassage":"Server On Timing :- 6:00PM",
+    "servermeassage":"Wait For New Update",
     "opentime":" ",
     "libs":"https://github.com/InvVishal/ZeroOp-Online-Mod/raw/refs/heads/main/libZeroOp.zip",
     "notice_title":"Welcome Vip Users",
